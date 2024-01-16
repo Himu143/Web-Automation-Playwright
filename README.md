@@ -38,3 +38,6 @@ Playwright is a Node.js library for automating browsers, such as Chromium, Firef
 - npx playwright test LoginTest.spec.js --headed
 ## Specific browser
 -  npx playwright test LoginTest.spec.js --project "browser name" --headed
+## Report
+![image](https://github.com/Himu143/Web-Automation-Playwright/assets/78273243/528a6b3d-dcc6-4c9e-a769-508746dfaec9)
+
