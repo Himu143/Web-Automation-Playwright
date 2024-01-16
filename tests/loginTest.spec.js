@@ -35,6 +35,6 @@ test('Login with valid credential', async ({ page }) => {
     await page.goto('https://trmis.inneed.cloud/login');
     await page.locator('[name="username"]').fill('JoyBanglaa');
     await page.locator('[name="password"]').fill('TrMISsuperAdmin@Ntp@');
-    await page.locator('[type="bdfjdf"]').click();
+    await page.locator('[type="submit"]').click();
    
   });
